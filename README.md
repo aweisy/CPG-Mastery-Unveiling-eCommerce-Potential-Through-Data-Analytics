@@ -25,7 +25,7 @@ To extract actionable insights from the dataset, I employed a diverse array of a
 - **Statsmodels:** Statistical analysis and hypothesis testing.
 
 ## Industry Expertise:
-With over 8 years of experience in Data Analytics, Data Science, Business Strategy, and Pricing across diverse industries including Financial Services, CPG, Insurance, and Life Sciences, I brought a deep understanding of customer behavior and market dynamics to this analysis. This industry expertise enabled me to navigate the data landscape and interpret the results from a strategic perspective, identifying opportunities and risks that inform actionable business decisions.
+With over 8 years of experience in Data Analytics, Data Science, Business Strategy, and Pricing Optimization across diverse industries including Financial Services, CPG, Insurance, and Life Sciences, I brought a deep understanding of customer behavior and market dynamics to this analysis. This industry expertise enabled me to navigate the data landscape and interpret the results from a strategic perspective, identifying opportunities and risks that inform actionable business decisions.
 
 ## Strategic Implications:
 The insights generated from this analysis have profound implications for Vanguard Stores and the broader CPG industry. By understanding customer preferences, optimizing product assortments, refining delivery services, and enhancing the overall online shopping experience, Vanguard Stores can strengthen its competitive position and drive revenue growth. These strategic initiatives, grounded in data-driven insights and market intelligence, have the potential to shape the future trajectory of Vanguard Stores and set new benchmarks for success in the digital retail landscape.
